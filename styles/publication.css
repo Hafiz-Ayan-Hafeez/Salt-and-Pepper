@@ -1,0 +1,48 @@
+/* main content stated */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=DM+Serif+Display:ital@0;1&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quattrocento:wght@400;700&display=swap');
+.dm-serif-display-regular {
+    font-family: "DM Serif Display", serif;
+    font-style: normal;
+    font-size: 4.5rem;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 70px 0px;
+}
+
+
+.publication-book-img{
+    border: 1px solid var(--white);
+    width: 500px;
+    padding: 30px;
+}
+
+.publication-book-img-2{
+    border: 1px solid var(--white);
+    width: 500px;
+    padding: 30px;
+}
+
+.parent-1{
+    text-align: center;
+}
+.h3{
+    font-size: 3.5rem;
+    color: var(--white);
+    letter-spacing: 0.10rem;
+}
+.content{
+    color: var(--white);
+    font-size: 1.6rem;
+}
+.content-1{
+    color: var(--white);
+    font-size: 1.4rem;
+}
+
+
+/* main content ended */

@@ -1,0 +1,86 @@
+/* footer started */
+
+
+.bg-grey{
+    background-color: var(--grey);
+    padding: 0px 70px;
+}
+.footer{
+    display: flex;
+    gap: 50px;
+    padding-top: 100px;
+}
+.logo-img{
+    width: 165px;
+}
+.p-font{
+    padding-top: 30px;
+    font-size: 1.5rem;
+    color: var(--white);
+}
+.a-font{
+    font-size: 1.5rem;
+    padding: 10px;
+}
+.h3-fonts{
+    font-size: 2rem;
+    color: #ffffff;
+}
+.a-footer-font{
+    font-size: 1.4rem;
+    display: block;
+    padding-top: 35px;
+}
+.heading-footer{
+    font-size: 1.6rem;
+    color: var(--white);
+}
+.normal-footer{
+    font-size: 1.3rem;
+    color: var(--white);
+}
+.facebook{
+    font-size: 3rem;
+    color: #ffffff;
+    border: 1px solid red;
+    border-radius: 25px;
+    padding: 10px 15px;
+    background-color: var(--red);
+}
+.instagram{
+    font-size: 3rem;
+    color: #ffffff;
+    border: 1px solid red;
+    border-radius: 25px;
+    padding: 10px 15px;
+    background-color: var(--red);
+}
+.twitter{
+    font-size: 3rem;
+    color: #ffffff;
+    border: 1px solid red;
+    border-radius: 25px;
+    padding: 10px 15px;
+    background-color: var(--red);
+}
+.app-store-img{
+    width: 142px;
+}
+.google-play-img{
+    width: 142px;
+}
+.footer-section{
+    display: flex;
+    gap: 600px;
+}
+.footer-001{
+    color: #ffffff;
+    font-size: 1.6rem;
+    padding-top: 20px;
+}
+.footer-002{
+    color: #ffffff;
+    font-size: 1.6rem;
+    padding-top: 20px;
+}
+/* footer ended */

@@ -1,0 +1,115 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=DM+Serif+Display:ital@0;1&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quattrocento:wght@400;700&display=swap');
+
+
+html{
+    font-size: 62.5%;
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+/* css variables */
+:root{
+    --black: #000000;
+    --white: #ffffff;
+    --red: #ed1c24;
+    --grey: #0f0f0f;
+    --green: #28a745;
+}
+/* utility classes */
+.d-flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-evenly{
+    justify-content: space-evenly;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.justify-around{
+    justify-content: space-around;
+}
+.item-center{
+    align-items: center;
+}
+.m-1{
+    margin: 5px;
+}
+.m-2{
+    margin: 10px;
+}
+.m-3{
+    margin: 15px;
+}
+.m-4{
+    margin: 20px;
+}
+.m-5{
+    margin: 25px;
+}
+.mx-1{
+    margin: 0px 5px;
+}
+.mx-2{
+    margin: 0px 10px;
+}
+.mx-3{
+    margin: 0px 15px;
+}
+.mx-4{
+    margin: 0px 20px;
+}
+.mx-5{
+    margin: 0px 25px;
+}
+.my-1{
+    margin: 5px 0px;
+}
+.my-2{
+    margin: 10px 0px;
+}
+.my-3{
+    margin: 15px 0px;
+}
+.my-4{
+    margin: 20px 0px;
+}
+.my-5{
+    margin: 25px 0px;
+}
+.gap-1{
+    gap: 5px;
+}
+.gap-2{
+    gap: 10px;
+}
+.gap-3{
+    gap: 15px;
+}
+.gap-4{
+    gap: 10px;
+}
+.gap-5{
+    gap: 25px;
+}
+.bg-black{
+    background-color: var(--black);
+}
+.color{
+    color: var(--white);
+}
+.text-none{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
