@@ -98,6 +98,7 @@
 
 .main-div{
     display: flex;
+    padding-left: 70px;
     gap: 150px;
 }
 
@@ -144,6 +145,7 @@
 
 .main{
     display: flex;
+    padding-left: 70px;
     gap: 350px;
 }
 .pic-2{
@@ -157,6 +159,7 @@
 
 .main-1{
     display: flex;
+    padding-left: 70px;
     gap: 150px;
 }
 .pic-3{
